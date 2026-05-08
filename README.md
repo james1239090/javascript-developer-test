@@ -3,9 +3,6 @@
 ## Important Information
 Read this document carefully and follow ALL instructions. 
 
-[!WARNING]
-Please pay particular attention to the Requirements.
-
 ## System Requirements
 The coding challenge requires the following to be installed on your development machine;
 * [nodejs](https://nodejs.org/en/download/) version 18.x or above.
